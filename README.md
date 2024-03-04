@@ -9,7 +9,7 @@ There are four menu options:
   3) Print the same frequency information with the numerical values represented as a histogram.
   4) Quit the program.
 
-This program also creates a backup.dat file, where each item in the map is listed in alphabetical order alongside the quantity of purchases.
+This program also creates a frequency.dat file, where each item in the map is listed in alphabetical order alongside the quantity of purchases.
 
 **Validating Input**
 
